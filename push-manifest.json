@@ -1,0 +1,100 @@
+{
+  "src/rm-app.html": {
+    "node_modules/@polymer/polymer/polymer-element.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/mixins/element-mixin.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/boot.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/settings.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/resolve-url.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/mixin.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/case-map.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/style-gather.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/elements/dom-module.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/mixins/property-effects.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/path.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/mixins/property-accessors.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/async.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/mixins/template-stamp.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "src/rm-common-styles.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "src/rm-footer.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "src/rm-header.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/elements/dom-if.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/templatize.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/mixins/mutable-data.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/debounce.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/utils/flush.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "src/rm-services.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "node_modules/@polymer/polymer/lib/elements/dom-repeat.html": {
+      "type": "document",
+      "weight": 1
+    }
+  }
+}
